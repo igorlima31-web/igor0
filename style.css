@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>História do Neymar</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #d9f2ff;
+            text-align: center;
+            margin: 20px;
+        }
+
+        h1{
+            color: rgb(0, 0, 0);
+        }
+
+        img{
+            width: 500px;
+            border: 2px solid black;
+        }
+
+        .conteudo{
+            background-color: white;
+            padding: 20px;
+            width: 80%;
+            margin: auto;
+            border-radius: 10px;
+        }
+
+        p{
+            text-align: justify;
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="conteudo">
+        <h1>História do Neymar</h1>
+
+        <p>IGOR LIMA</p>
+
+        <img src="neymar.jpg" alt="Foto de Neymar">
+
+        <p>
+            Neymar da Silva Santos Júnior nasceu em 5 de fevereiro de 1992,
+            em Mogi das Cruzes, São Paulo. Desde pequeno demonstrou talento
+            para o futebol e iniciou sua carreira nas categorias de base do
+            Santos Futebol Clube. Em 2009, estreou como profissional e rapidamente
+            se destacou por sua habilidade, velocidade e capacidade de marcar gols.
+
+            Em 2013, transferiu-se para o Barcelona, onde conquistou diversos
+            títulos, incluindo a Liga dos Campeões da UEFA. Em 2017, foi contratado
+            pelo Paris Saint-Germain (PSG), em uma das maiores transferências da
+            história do futebol. Pela Seleção Brasileira, Neymar conquistou a
+            medalha de ouro nos Jogos Olímpicos de 2016 e tornou-se um dos maiores
+            artilheiros da história da equipe.
+
+            Reconhecido mundialmente por seu talento, Neymar é considerado um dos
+            principais jogadores de futebol de sua geração.
+        </p>
+
+    </div>
+
+</body>
+</html>
